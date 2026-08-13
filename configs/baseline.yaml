@@ -1,0 +1,10 @@
+name: baseline
+seed: 42
+max_steps: 5000
+curiosity_weight: 0.5
+memory_capacity: 20000
+social_interaction: true
+novelty_factor: 1.0
+day_night_cycle: true
+reward_structure: default
+render: false
