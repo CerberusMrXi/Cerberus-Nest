@@ -79,8 +79,8 @@ The baseline already contains:
 ### 1. Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cerberus-nest.git
-cd cerberus-nest
+git clone https://github.com/CerberusMrXi/Cerberus-Nest.git
+cd Cerberus-Nest
 ```
 
 ### 2. Create a virtual environment
